@@ -1,2 +1,2 @@
-# veritasiumpage
-Prototipo de página de Veritasium en español
+# Veritasium page
+Prototipo de página de Veritasium en Español
